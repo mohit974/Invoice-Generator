@@ -24,7 +24,6 @@ The goal of this project is to develop a programmatic solution for generating in
 - **PDF Generation:** Generates PDF which is downloaded to your local machine and Preview invoices in PDF format.
 - **Schema Validation:** Uses `yup` for validating input data.
 - **Data Validation** Data Validation at backend
-- **PDF Customization:** Customize PDF layout including seller logo, signature, and itemized details.
 - **Amount in Words:** Converts numerical amounts into words using `num2words`.
 
 ## Installation
